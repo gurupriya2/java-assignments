@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="443e5bfe-a2ad-461e-8652-bec50dd21d42" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iSO8xx1ptFzswgCl8RQ35x8a26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgeInvalidException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Digit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigittoWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicates (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InternationalMovie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCSelectStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LearningModule.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeetingRoomApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Movie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpecialMovie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnhandledException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrongInputException.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.AddMethodsEdgeCaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddMethodsEdgeCaseTest.testAddFloatFloat_minValues.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.AddMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CartEdgeCaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CartTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Student4Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Student4Test.testHighestTotalMarks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Student4Test.testScholarshipEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.testDisplayStudentDetails.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.testStudentAnnualFee.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.testStudentAverageMark.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.testStudentHighestScore.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.testStudentLowestMonthlyFee.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.testStudentMarks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentTest.testStudentMarksIsNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ecz.model in lab-solutions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.test.java.model in lab-solutions.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Test setup/lab-solutions/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Test setup\lab-solutions\src\LAB3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Student4Test.testHighestTotalMarks">
+    <configuration name="Student4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.model" />
+      <option name="MAIN_CLASS_NAME" value="test.java.model.Student4Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student4Test.testHighestTotalMarks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.model" />
+      <option name="MAIN_CLASS_NAME" value="test.java.model.Student4Test" />
+      <option name="METHOD_NAME" value="testHighestTotalMarks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student4Test.testScholarshipEligibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.model" />
+      <option name="MAIN_CLASS_NAME" value="test.java.model.Student4Test" />
+      <option name="METHOD_NAME" value="testScholarshipEligibility" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.testDisplayStudentDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.model" />
+      <option name="MAIN_CLASS_NAME" value="test.java.model.StudentTest" />
+      <option name="METHOD_NAME" value="testDisplayStudentDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.testStudentMarksIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.model" />
+      <option name="MAIN_CLASS_NAME" value="test.java.model.StudentTest" />
+      <option name="METHOD_NAME" value="testStudentMarksIsNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Student4Test.testHighestTotalMarks" />
+        <item itemvalue="JUnit.StudentTest.testStudentMarksIsNull" />
+        <item itemvalue="JUnit.Student4Test" />
+        <item itemvalue="JUnit.Student4Test.testScholarshipEligibility" />
+        <item itemvalue="JUnit.StudentTest.testDisplayStudentDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="443e5bfe-a2ad-461e-8652-bec50dd21d42" name="Changes" comment="" />
+      <created>1719480358122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719480358122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EXERCISE/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/model/Student4Test.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ecz/model/Student.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ecz/model/Student.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
